@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Medicorum</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="emailHint"> Username or Email </string>
+    <string name="passHint"> Password </string>
+    <string name="log"> LOG IN </string>
+    <string name="google">LOG IN WITH GOOGLE</string>
+    <string name="facebook">LOG IN WITH FACEBOOK</string>
+    <string name="sign_up">Sign up</string>
+    <string name="don_t_have_an_account">Don\'t Have An Account?</string>
+    <string name="or">OR</string>
+    <string name="login_with_google">LOGIN WITH GOOGLE</string>
+    <string name="CreateNewPost">Create New post</string>
+    <string name="spin">Select Tag</string>
+    <string name="write_file">This app needs access to your file storage so that it can write files.</string>
+
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#795548</color>
+    <color name="colorPrimaryDark">#5D4037</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Blue">#192a3d</color>
+    <color name="darkgray">#6c6c6c</color>
+    <color name="White">#ffffff</color>
+    <color name="titleBar">#16196b</color>
+    <color name="Tia_color"> #00fd1e </color>
+    <color name="pink"> #ea09f5 </color>
+    <color name="buttoncolor1">#192a3d</color>
+    <color name="white">#ffffff</color>
+    <color name="Black">#000000</color>
+</resources>

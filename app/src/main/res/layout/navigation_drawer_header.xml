@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@drawable/header_pic"
+    android:padding="20dp"
+    android:layout_height="160dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_gravity="center"
+        android:layout_width="75dp"
+        android:id="@+id/NavigationHeader_proPicID"
+        android:layout_height="75dp"
+        android:src="@drawable/biral"/>
+
+    <TextView
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+        android:text="Hi, User Name"
+        android:id="@+id/NavigationHeader_NAMEID"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_marginTop="5dp"
+        />
+
+
+</LinearLayout>
